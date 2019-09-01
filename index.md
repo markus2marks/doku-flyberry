@@ -20,6 +20,11 @@ Die Bedienung des Geräte erfolgt erstmal weiterhin über den Openvario Stick. D
 
 ## Navigationssystem
 
+
+### Prozessor
+Die Hardware soll natürlich auf der einen Seite leistungsstark sein, aber auch bezahlbar. 
+Deswegen wurde für den ersten Prototyp das [SOM Einstein-S700](http://www.cubietech.com/product-detail/einstein-s700/) ausgewählt. 
+Weitere Informationen findet ihr auf der Homepage von Cubietech.
 ```
 Kontakt:
 ```
