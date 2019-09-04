@@ -26,7 +26,7 @@ Deswegen wurde für den ersten Prototyp das [SOM Einstein-S700](http://www.cubie
 Weitere Informationen findet ihr auf der Homepage von Cubietech.
 
 ## Platine
-
+![](./images/platine.png)
 ```
 Kontakt:
 ```
