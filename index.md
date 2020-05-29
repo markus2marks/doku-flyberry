@@ -2,6 +2,18 @@
 layout: default
 ---
 
+docs_list_title: ACME Documentation
+docs:
+
+- title: Introduction
+  url: introduction.html
+
+- title: Configuration
+  url: configuration.html
+
+- title: Deployment
+  url: deployment.html
+
 # Konzept
 
 Als Grundlage dient das [Openvario](https://www.openvario.org/doku.php) Projekt. Dabei wurden eingie Sachen verbessert und optimiert. Das System sollte nur noch aus einer Platine bestehen, 
@@ -18,7 +30,8 @@ Die Bedienung des Geräte erfolgt erstmal weiterhin über den Openvario Stick. D
 
 # Navigationssystem
 In der Abbildung ist der erste Prototyp erkennbar, auf dem auch schon XCSoar läuft. 
-![](./images/IMG_8093.JPG)
+
+<img src="/images/IMG_8206.JPG" alt="" style="transform:rotate(90deg) scale(0.8);">
 
 ## Prozessor
 Die Hardware soll natürlich auf der einen Seite leistungsstark sein, aber auch bezahlbar. 
@@ -27,6 +40,19 @@ Weitere Informationen findet ihr auf der Homepage von Cubietech.
 
 ## Platine
 ![](./images/platine.png)
+
+## Interfaces
+
+Das System besitzt folgende Interfaces:
+
+- 2x Seriell
+- 2x USB 2.0
+- Ethernet
+- Stereo Audio
+- CAN
+- WLAN/Bluetooth
+- LTE
+<img src="/images/IMG_E8288.JPG" alt="" style="transform:scale(0.8);">
 ```
-Kontakt:
+Kontakt: Markus_Marks@web.de
 ```
