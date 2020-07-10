@@ -2,24 +2,12 @@
 layout: default
 ---
 
-docs_list_title: ACME Documentation
-docs:
-
-- title: Introduction
-  url: introduction.html
-
-- title: Configuration
-  url: configuration.html
-
-- title: Deployment
-  url: deployment.html
-
 # Konzept
 
 Als Grundlage dient das [Openvario](https://www.openvario.org/doku.php) Projekt. Dabei wurden eingie Sachen verbessert und optimiert. Das System sollte nur noch aus einer Platine bestehen, 
 um so einen kleineren Formfaktor zu erziehlen. Bei dem Display hat sich die Größe
-von 5 Zoll als optimal heraus gestellt, wodruch sich das Gerät auch in kleinen Instrumentenbrettern installieren lässt. 
-Des Weiteren soll eine externe Sensorbox zum Einsatz kommen, die die Telemetriedaten im Flugzeug aufnimmt und entsprechend per CAN-Bus an die einzelnen Systeme verteilt. 
+von 5 Zoll als optimal heraus gestellt, wodurch sich das Gerät auch in kleinen Instrumentenbrettern installieren lässt. 
+Des Weiteren soll eine externe Sensorbox zum Einsatz kommen, die die Telemetriedaten im Flugzeug aufnimmt und entsprechend per CAN-Bus oder Ethernet an die einzelnen Systeme verteilt. 
 Die Bedienung des Geräte erfolgt erstmal weiterhin über den Openvario Stick. Dafür gibt es auch schon ein besseres Bedienkonzept, das aber noch nicht begonnen wurde.
 
 # Sensorbox
