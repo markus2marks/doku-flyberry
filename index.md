@@ -31,7 +31,7 @@ Die Bedienung des Geräte erfolgt erstmal weiterhin über den Openvario Stick. D
 # Navigationssystem
 In der Abbildung ist der erste Prototyp erkennbar, auf dem auch schon XCSoar läuft. 
 
-<img src="/images/IMG_8206.JPG" alt="" style="transform:rotate(90deg) scale(0.8);">
+![](./images/IMG_8206.JPG)
 
 ## Prozessor
 Die Hardware soll natürlich auf der einen Seite leistungsstark sein, aber auch bezahlbar. 
@@ -52,7 +52,7 @@ Das System besitzt folgende Interfaces:
 - CAN
 - WLAN/Bluetooth
 - LTE
-<img src="/images/IMG_E8288.JPG" alt="" style="transform:scale(0.8);">
+![](./images/IMG_E8288.JPG)
 ```
 Kontakt: Markus_Marks@web.de
 ```
